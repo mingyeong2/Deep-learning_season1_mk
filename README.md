@@ -1,4 +1,4 @@
 # Deep-learning_season1_mk
-모두의 딥러닝 시즌1 구현   |    Deep learning season1 code
+DeepLearningZeroToAll (by Sung Kim)
 
-모두의 딥러닝 시즌1의 예제를 pytorch와 tensorflow로 구현
+DeepLearningZeroToAll season1 codes (Tensorflow & Pytorch)
